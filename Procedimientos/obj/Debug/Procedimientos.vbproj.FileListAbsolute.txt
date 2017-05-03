@@ -1,0 +1,10 @@
+C:\Users\Seba\Desktop\Facu\Programacion 2\Ejerccios 1.1 en adelante\Procedimientos\Procedimientos\bin\Debug\Procedimientos.exe.config
+C:\Users\Seba\Desktop\Facu\Programacion 2\Ejerccios 1.1 en adelante\Procedimientos\Procedimientos\bin\Debug\Procedimientos.exe
+C:\Users\Seba\Desktop\Facu\Programacion 2\Ejerccios 1.1 en adelante\Procedimientos\Procedimientos\bin\Debug\Procedimientos.pdb
+C:\Users\Seba\Desktop\Facu\Programacion 2\Ejerccios 1.1 en adelante\Procedimientos\Procedimientos\bin\Debug\Procedimientos.xml
+C:\Users\Seba\Desktop\Facu\Programacion 2\Ejerccios 1.1 en adelante\Procedimientos\Procedimientos\obj\Debug\Procedimientos.Resources.resources
+C:\Users\Seba\Desktop\Facu\Programacion 2\Ejerccios 1.1 en adelante\Procedimientos\Procedimientos\obj\Debug\Procedimientos.vbproj.GenerateResource.Cache
+C:\Users\Seba\Desktop\Facu\Programacion 2\Ejerccios 1.1 en adelante\Procedimientos\Procedimientos\obj\Debug\Procedimientos.exe
+C:\Users\Seba\Desktop\Facu\Programacion 2\Ejerccios 1.1 en adelante\Procedimientos\Procedimientos\obj\Debug\Procedimientos.xml
+C:\Users\Seba\Desktop\Facu\Programacion 2\Ejerccios 1.1 en adelante\Procedimientos\Procedimientos\obj\Debug\Procedimientos.pdb
+C:\Users\Seba\Desktop\Facu\Programacion 2\Ejerccios 1.1 en adelante\Procedimientos\Procedimientos\obj\Debug\Procedimientos.vbprojResolveAssemblyReference.cache
